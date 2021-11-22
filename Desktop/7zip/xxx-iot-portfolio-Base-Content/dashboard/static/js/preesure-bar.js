@@ -6,6 +6,7 @@ var barData = {
                 label: 'Popularity',
                 data: [12, ],
                 borderWidth: 1,
+		backgroundColor:['rgba(80, 0, 0, 0.4)'],
           }],
 };
 
